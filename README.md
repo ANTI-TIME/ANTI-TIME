@@ -15,6 +15,21 @@ Maximum Supply: 21 Trillion
 
 - TRX 1T
 
+### Binance Main Net
+
+#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://bscscan.com/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+
+### Ethereum Main Net
+
+#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://etherscan.io/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+
+### Polygon Main Net
+
+#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://polygonscan.com/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+
+### Tron Main Net
+
+#### [EMIT: TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj (18)](https://tronscan.org/#/token20/TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj)
 
 <!--
 **ANTI-TIME/ANTI-TIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
