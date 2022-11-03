@@ -3,6 +3,8 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 <https://anti-time.cc> 
 
+### Make more TIME? ANTI-TIME!
+
 Maximum Supply: 21 Trillion
 
 - ETH 9.5T
@@ -13,7 +15,6 @@ Maximum Supply: 21 Trillion
 
 - TRX 1T
 
-### Make more TIME? ANTI-TIME!
 
 <!--
 **ANTI-TIME/ANTI-TIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
