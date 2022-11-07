@@ -5,6 +5,8 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 ### [Make more TIME](https://youtu.be/TIf241ZDyRo) -- Morgan Freeman
 
+[ANTI-TIME EMIT Whitepaper](https://github.com/ANTI-TIME/ANTI-TIME/blob/main/ANTI-TIME-whitepaper.pdf)
+
 Maximum Supply: 21 Trillion
 
 - ETH 9.5T
