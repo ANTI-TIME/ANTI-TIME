@@ -17,9 +17,9 @@ The present conscious instant is digital, the past and the future are quantum (a
 
 Maximum Supply: 21 Trillion
 
-- ETH 9.5T
+- BSC 18T
 
-- BSC 9.5T
+- ETH 1T
 
 - Polygon 1T
 
@@ -27,19 +27,19 @@ Maximum Supply: 21 Trillion
 
 ### Binance Main Net
 
-#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://bscscan.com/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+#### [EMIT: (18)]
 
 ### Ethereum Main Net
 
-#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://etherscan.io/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+#### [EMIT: (18)]
 
 ### Polygon Main Net
 
-#### [EMIT: 0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C (18)](https://polygonscan.com/token/0x243628fc7fEa54cCEC2627BC9Af9388DF5F7107C)
+#### [EMIT: (18)]
 
 ### Tron Main Net
 
-#### [EMIT: TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj (18)](https://tronscan.org/#/token20/TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj)
+#### [EMIT: (18)]
 
 ### QAs
 Question: So what is ANTI-TIME?
