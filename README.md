@@ -3,7 +3,7 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 <https://anti-time.cc> 
 
-### [Make more TIME](https://youtu.be/TIf241ZDyRo) -- Morgan Freeman
+[Make more TIME](https://youtu.be/TIf241ZDyRo) -- Morgan Freeman
 
 [ANTI-TIME EMIT Whitepaper](https://www.scirp.org/pdf/jmp_2021042715394684.pdf) --Alexander Alexandrovich Antonov
 
