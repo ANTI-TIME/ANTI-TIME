@@ -211,7 +211,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 }
 
 contract EMIT is ERC20 {
-    constructor(uint256 totalsupply) ERC20 ('ANTI-TIME', 'EMIT') {
-        _mint(msg.sender, totalsupply);
+    constructor(uint256 totalsupply, address to) ERC20 ('ANTI-TIME', 'EMIT') {
+        _mint(to, totalsupply);
     }
 }
