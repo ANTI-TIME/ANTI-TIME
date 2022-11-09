@@ -7,7 +7,7 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 [ANTI-TIME EMIT Whitepaper](https://www.scirp.org/pdf/jmp_2021042715394684.pdf) --Alexander Alexandrovich Antonov
 
-[Anti-Time: A Twin of Time?](https://www.ecstadelic.net/top-stories/anti-time-a-twin-of-time) --Alex Vikoulov
+[Anti-Time: A Twin of Time?](https://www.ecstadelic.net/top-stories/anti-time-a-twin-of-time) --[Alex Vikoulov](https://www.alexvikoulov.com/)
 
 The present conscious instant is digital, the past and the future are quantum (analog). There is no universal frame of reference, instead, there’s only the conscious observer’s frame of reference.
 
