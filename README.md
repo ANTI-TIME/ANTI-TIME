@@ -15,15 +15,15 @@ The present conscious instant is digital, the past and the future are quantum (a
 
 
 
-Maximum Supply: 21 Trillion
+Maximum Supply: 21 Thousand
 
-- BSC 18T
+- BSC 18 Thousand
 
-- ETH 1T
+- ETH 1 Thousand
 
-- Polygon 1T
+- Polygon 1 Thousand
 
-- TRX 1T
+- TRX 1 Thousand
 
 ### Binance Main Net
 
