@@ -5,7 +5,13 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 ### [Make more TIME](https://youtu.be/TIf241ZDyRo) -- Morgan Freeman
 
-[ANTI-TIME EMIT Whitepaper](https://github.com/ANTI-TIME/ANTI-TIME/blob/main/ANTI-TIME-whitepaper.pdf)
+[ANTI-TIME EMIT Whitepaper](https://www.scirp.org/pdf/jmp_2021042715394684.pdf) --Alexander Alexandrovich Antonov
+
+[Anti-Time: A Twin of Time?](https://www.ecstadelic.net/top-stories/anti-time-a-twin-of-time) --Alex Vikoulov
+
+[TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of 'Anti-Time' around which the present article revolves. TENET's "inversion" is Anti-Time. 
+
+The present conscious instant is digital, the past and the future are quantum (analog). There is no universal frame of reference, instead, there’s only the conscious observer’s frame of reference.
 
 Maximum Supply: 21 Trillion
 
