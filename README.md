@@ -41,7 +41,22 @@ Maximum Supply: 21 Trillion
 
 #### [EMIT: TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj (18)](https://tronscan.org/#/token20/TL1yGpcPn97vpv6RdU1TtW5qhdHVURzLvj)
 
+### QAs
+Question: So what is ANTI-TIME?
 
+Answer: ANTI-TIME is where time is not linear.
+
+Question: But isn’t all time linear?
+
+Answer: The way most humans experience time is linear. Only top 5% of people truly understand Time and ANTI-TIME.
+
+Question: So what is an example of when time is not linear?
+
+Answer: Dreams are a good example of when time is not linear. But this is not the only case.
+
+Question: What are other cases where time is not linear?
+
+Answer: Some other cases include conscious states of PTSD, Psychosis, under the Influence of Psychedelics (such as DMT a naturally occurring chemical in the brain) and ot
 <!--
 **ANTI-TIME/ANTI-TIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
