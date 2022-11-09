@@ -56,7 +56,7 @@ Answer: Dreams are a good example of when time is not linear. But this is not th
 
 Question: What are other cases where time is not linear?
 
-Answer: Some other cases include conscious states of PTSD, Psychosis, under the Influence of Psychedelics (such as DMT a naturally occurring chemical in the brain) and ot
+Answer: Some other cases include conscious states of PTSD, Psychosis, under the Influence of Psychedelics (such as DMT a naturally occurring chemical in the brain, LSD) and others.
 <!--
 **ANTI-TIME/ANTI-TIME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
