@@ -11,19 +11,19 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 The present conscious instant is digital, the past and the future are quantum (analog). There is no universal frame of reference, instead, there’s only the conscious observer’s frame of reference.
 
-[TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of Anti-Time around which the present article revolves. TENET's inversion is ANTI-TIME. 
+[TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of ANTI-TIME around which the present article revolves. TENET's inversion is ANTI-TIME. 
 
 
 
-Maximum Supply: 21 Thousand
+Maximum Supply: 13.8 Billion
 
-- BSC 18 Thousand
+- BSC 10.8 Billion
 
-- ETH 1 Thousand
+- ETH 1 Billion
 
-- Polygon 1 Thousand
+- Polygon 1 Billion
 
-- TRX 1 Thousand
+- TRX 1 Billion
 
 ### Binance Main Net
 
