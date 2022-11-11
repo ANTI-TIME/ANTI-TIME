@@ -65,7 +65,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
     }
 
     function decimals() public view virtual override returns (uint8) {
-        return 0;
+        return 18;
     }
 
     function totalSupply() public view virtual override returns (uint256) {
@@ -211,7 +211,7 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
 }
 
 contract EMIT is ERC20 {
-    constructor(uint256 totalsupply, address to) ERC20 ('ANTI-TIME', 'EMIT') {
-        _mint(to, totalsupply);
+    constructor(uint256 totalsupply) ERC20 ('ANTI-TIME', 'EMIT') {
+        _mint(msg.sender, totalsupply);
     }
 }
