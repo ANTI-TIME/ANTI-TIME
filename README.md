@@ -13,6 +13,8 @@ The present conscious instant is digital, the past and the future are quantum (a
 
 [TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of ANTI-TIME around which the present article revolves. TENET's inversion is ANTI-TIME. 
 
+[Physics of Time](https://www.exactlywhatistime.com/physics-of-time/)
+
 
 
 Maximum Supply: 13.8 Billion
