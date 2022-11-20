@@ -29,19 +29,19 @@ Maximum Supply: 13.8 Billion
 
 ### Binance Main Net
 
-#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://bscscan.com/token/0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
 
 ### Ethereum Main Net
 
-#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://etherscan.io/token/0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
 
 ### Polygon Main Net
 
-#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://polygonscan.com/token/0x7377778f2bd88a1888a06c9f9e99d97f8ea6b83c)
 
 ### Tron Main Net
 
-#### [EMIT: TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5 (18)]
+#### [EMIT: TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5 (18)](https://tronscan.org/#/token20/TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5)
 
 
 
