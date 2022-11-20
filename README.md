@@ -38,6 +38,7 @@ Maximum Supply: 13.8 Billion
 ### Polygon Main Net
 
 #### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://polygonscan.com/token/0x7377778f2bd88a1888a06c9f9e99d97f8ea6b83c)
+#### [EMIT/TIME V2 Pair](https://polygonscan.com/address/0x53b6736819e72ad3c24f2599ffe8ffb3a087ef8e)
 
 ### Tron Main Net
 
