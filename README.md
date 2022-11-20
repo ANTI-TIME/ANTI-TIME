@@ -30,7 +30,7 @@ Maximum Supply: 13.8 Billion
 ### Binance Main Net
 
 #### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://bscscan.com/token/0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
-#### [EMIT/TIME V2 Pair](https://bscscan.com/address/0x1dc5634eff934623abd6b4aa6877be15ecf4b2ef)
+#### [PancakeSwap for EMIT/TIME](https://pancakeswap.finance/swap?inputCurrency=0x13460EAAeaDe9427957F26A570345490b5d7910F&outputCurrency=0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C) 
 
 ### Ethereum Main Net
 
