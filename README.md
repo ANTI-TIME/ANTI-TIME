@@ -9,12 +9,7 @@ ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 [Anti-Time: A Twin of Time?](https://www.ecstadelic.net/top-stories/anti-time-a-twin-of-time) --[Alex Vikoulov](https://www.alexvikoulov.com/)
 
-The present conscious instant is digital, the past and the future are quantum (analog). There is no universal frame of reference, instead, there’s only the conscious observer’s frame of reference.
-
-[TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of ANTI-TIME around which the present article revolves. TENET's inversion is ANTI-TIME. 
-
-[Physics of Time](https://www.exactlywhatistime.com/physics-of-time/)
-
+The present conscious instant is digital, the past and the future are quantum (analog). There is no universal frame of reference, instead, there’s only the conscious observer’s frame of reference. [TENET](https://en.wikipedia.org/wiki/Tenet_(film)) is based on the physics of time, more specifically D-Theory of Time, or Digital Presentism, including the notion of ANTI-TIME around which the present article revolves. TENET's inversion is ANTI-TIME. 
 
 
 Maximum Supply: 13.8 Billion
@@ -45,6 +40,7 @@ Maximum Supply: 13.8 Billion
 ### Tron Main Net
 
 #### [EMIT: TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5 (18)](https://tronscan.org/#/token20/TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5)
+#### Sunswap for EMIT/TIME
 
 
 <!--
