@@ -29,21 +29,23 @@ Maximum Supply: 13.8 Billion
 
 ### Binance Main Net
 
-#### [EMIT: (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
 
 ### Ethereum Main Net
 
-#### [EMIT: (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
 
 ### Polygon Main Net
 
-#### [EMIT: (18)]
+#### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)]
 
 ### Tron Main Net
 
-#### [EMIT: (18)]
+#### [EMIT: TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5 (18)]
 
-### QAs
+
+
+#### QAs
 Question: So what is ANTI-TIME?
 
 Answer: ANTI-TIME is where time is not linear.
