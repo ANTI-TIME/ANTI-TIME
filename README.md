@@ -35,7 +35,7 @@ Maximum Supply: 13.8 Billion
 ### Ethereum Main Net
 
 #### [EMIT: 0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C (18)](https://etherscan.io/token/0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
-### [Uniswap for EMIT/TIME](https://app.uniswap.org/#/swap?inputCurrency=0x13460EAAeaDe9427957F26A570345490b5d7910F&outputCurrency=0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
+#### [Uniswap for EMIT/TIME](https://app.uniswap.org/#/swap?inputCurrency=0x13460EAAeaDe9427957F26A570345490b5d7910F&outputCurrency=0x7377778F2bD88A1888a06C9f9e99d97F8EA6b83C)
 
 ### Polygon Main Net
 
