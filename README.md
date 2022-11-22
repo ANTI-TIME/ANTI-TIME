@@ -1,7 +1,7 @@
 ## ANTI-TIME (EMIT)
-ANTI-TIME (EMIT) is the first tradable asset by TIME.
+### ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
-<https://anti-time.cc> 
+### <https://anti-time.cc> 
 
 [Make more TIME](https://youtu.be/TIf241ZDyRo) -- Morgan Freeman
 
@@ -40,7 +40,7 @@ Maximum Supply: 13.8 Billion
 ### Tron Main Net
 
 #### [EMIT: TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5 (18)](https://tronscan.org/#/token20/TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5)
-#### Sunswap for EMIT/TIME
+#### [Sunswap for EMIT/TIME](https://sunswap.com/#/v2?lang=en-US&t0=TXoCbWbeZVgGixj9vGFYUYephuaJdYMUms&t1=TWfeuDw43rxcE4DDygS9iWopY3kZyAwpc5&type=swap)
 
 
 <!--
