@@ -1,4 +1,4 @@
-## ANTI-TIME (EMIT) <https://anti-time.cc> 
+## ANTI-TIME (EMIT) https://anti-time.cc
 ### ANTI-TIME (EMIT) is the first tradable asset by TIME.
 
 
